@@ -1,0 +1,6 @@
+[submodule "submodules-client"]
+	path = submodules-client
+	url = https://github.com/ypolosov/submodules-client
+[submodule "submodules-shared"]
+	path = submodules-shared
+	url = https://github.com/ypolosov/submodules-shared
